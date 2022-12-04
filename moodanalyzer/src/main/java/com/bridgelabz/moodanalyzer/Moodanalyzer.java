@@ -1,14 +1,14 @@
-package com.bridgelabz.moodanalyser;
+package com.bridgelabz.moodanalyzer;
 
-public class Moodanalyser {
+public class Moodanalyzer {
 	private String message;
 
 	// Default Constructor
-	public Moodanalyser() {
+	public Moodanalyzer() {
 	}
 
 	// Parameterized Constructor
-	public Moodanalyser(String message) {
+	public Moodanalyzer(String message) {
 		this.message = message;
 	}
 
