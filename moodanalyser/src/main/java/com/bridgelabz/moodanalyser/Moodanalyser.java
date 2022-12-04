@@ -1,6 +1,6 @@
 package com.bridgelabz.moodanalyser;
 
-public class MoodAnalyzer {
+public class Moodanalyser {
 	public String analyseMood(String message) {
 
 		if (message.contains("happy"))
